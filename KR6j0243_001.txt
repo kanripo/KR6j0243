@@ -1,24 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:39.326373
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:39
 #+TITLE: 佛說六字神呪王經
 #+PROPERTY: CBETA_ID T20n1045a
 #+PROPERTY: ID KR6j0243
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1045a
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0243_T_000-0039c>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0243_T_001-0039c> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1045[No.1044,cf.No.1043]¶
-
- 佛說六字神呪王經¶
+No. 1045 [No. 1044, cf. No. 1043]¶
+佛說六字神呪王經¶
 ¶
 失譯人名今附梁錄¶
 
-如是我聞。一時佛在舍衛國祇陀林中。爾時¶
+如是我聞。一時佛在舍衛國祗陀林中。爾時¶
 有一外道旃陀羅女。專行眾惡符書厭禱。或¶
 事山神樹神樹下鬼神。日月五星南斗北辰。¶
 一切魍魎雜魔邪魅。惑尊者阿難及諸善人。¶
